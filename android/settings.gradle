@@ -1,0 +1,3 @@
+rootProject.name = 'BryanEventApp'
+
+include ':app'
